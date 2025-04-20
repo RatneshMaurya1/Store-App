@@ -4,6 +4,7 @@ import { getCartItems, stores } from '../../services'
 import locationImage from "../../assets/Location.png"
 import { useNavigate } from 'react-router-dom'
 import { useCountContect } from '../../components/context/CountContext'
+import toast from "react-hot-toast"
 
 const Home = () => {
     const [storesData,setStoresData] = useState([])
@@ -35,6 +36,24 @@ const Home = () => {
         localStorage.setItem("userId",Date.now())
       }
     },[])
+
+    useEffect(() => {
+      toast(
+        '⚠️ Our backend is hosted on a free Render server. It might take 20–30 seconds to wake up after being idle. Please be patient while it loads your order details.',
+        {
+          icon: '⏳',
+          duration: 7000,
+          style: {
+            borderRadius: '10px',
+            background: '#fff4e5',
+            color: '#663c00',
+            border: '1px solid #ffecb5',
+            fontSize: '14px',
+          },
+        }
+      );
+    }, []);
+    
     return (
         <div className={styles.homeContainer}>
       

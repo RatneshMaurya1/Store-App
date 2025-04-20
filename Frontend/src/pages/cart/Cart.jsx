@@ -66,6 +66,7 @@ const Cart = () => {
         if(response){
           toast.success(response.message)
           await deleteCart()
+          setCount(0)
           navigate("/order")
         }
       } catch (error) {

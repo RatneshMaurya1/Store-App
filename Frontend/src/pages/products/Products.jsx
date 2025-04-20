@@ -9,7 +9,7 @@ import { useCountContect } from "../../components/context/CountContext";
 const Products = () => {
   const [productsData, setProductsData] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [addItemLoading, setAddItemLoading] = useState(false);
+  const [addItemId, setAddItemId] = useState(null);
   const navigate = useNavigate();
   const { id } = useParams();
   const { setCount } = useCountContect();
@@ -34,7 +34,7 @@ const Products = () => {
   }, []);
 
   const handleAddItem = async (productId) => {
-    setAddItemLoading(true);
+    setAddItemId(productId);
     try {
       const response = await addItem(productId);
       if (response) {
@@ -44,6 +44,8 @@ const Products = () => {
       }
     } catch (error) {
       toast.error(error.message);
+    }finally{
+      setAddItemId(null)
     }
   };
   return (
@@ -66,7 +68,7 @@ const Products = () => {
                   className={styles.addToCart}
                   onClick={() => handleAddItem(item._id)}
                 >
-                  Add to Cart
+                  {addItemId === item._id ? "Loading..." : "Add to Cart"}
                 </button>
               </div>
             ))
