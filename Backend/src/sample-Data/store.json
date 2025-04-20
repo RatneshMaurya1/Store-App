@@ -1,0 +1,23 @@
+[
+    { "name": "Fresh Mart", "location": "MG Road" },
+    { "name": "Organic Hub", "location": "Indiranagar" },
+    { "name": "Local Greens", "location": "Koramangala" },
+    { "name": "Nature's Basket", "location": "Whitefield" },
+    { "name": "Green Valley", "location": "BTM Layout" },
+    { "name": "Veggie Villa", "location": "HSR Layout" },
+    { "name": "Farm Fresh", "location": "Jayanagar" },
+    { "name": "Healthy Harvest", "location": "Banashankari" },
+    { "name": "The Fruit Stop", "location": "Hebbal" },
+    { "name": "Urban Farmers", "location": "Marathahalli" },
+    { "name": "Daily Basket", "location": "Bellandur" },
+    { "name": "Garden Greens", "location": "Rajajinagar" },
+    { "name": "Pure Pick", "location": "Yelahanka" },
+    { "name": "Greens & More", "location": "Malleshwaram" },
+    { "name": "Farmers Cart", "location": "Ulsoor" },
+    { "name": "FreshPoint", "location": "Electronic City" },
+    { "name": "Green Choice", "location": "JP Nagar" },
+    { "name": "Eco Basket", "location": "Basavanagudi" },
+    { "name": "The Veggie Box", "location": "Kalyan Nagar" },
+    { "name": "Harvest Hub", "location": "Kammanahalli" }
+  ]
+  

@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Apple",
+        "price": 150,
+        "quantity": 100,
+        "storeName": "Fresh Mart"
+    },
+    {
+        "name": "Banana",
+        "price": 50,
+        "quantity": 200,
+        "storeName": "Fresh Mart"
+    },
+    {
+        "name": "Orange",
+        "price": 80,
+        "quantity": 150,
+        "storeName": "Fresh Mart"
+    },
+    {
+        "name": "Grapes",
+        "price": 120,
+        "quantity": 90,
+        "storeName": "Fresh Mart"
+    },
+    {
+        "name": "Tomato",
+        "price": 30,
+        "quantity": 200,
+        "storeName": "Fresh Mart"
+    },
+    {
+        "name": "Carrot",
+        "price": 40,
+        "quantity": 180,
+        "storeName": "Organic Hub"
+    },
+    {
+        "name": "Cucumber",
+        "price": 25,
+        "quantity": 160,
+        "storeName": "Organic Hub"
+    },
+    {
+        "name": "Spinach",
+        "price": 20,
+        "quantity": 140,
+        "storeName": "Organic Hub"
+    },
+    {
+        "name": "Beetroot",
+        "price": 35,
+        "quantity": 110,
+        "storeName": "Organic Hub"
+    },
+    {
+        "name": "Zucchini",
+        "price": 60,
+        "quantity": 80,
+        "storeName": "Organic Hub"
+    },
+    {
+        "name": "Broccoli",
+        "price": 90,
+        "quantity": 100,
+        "storeName": "Local Greens"
+    },
+    {
+        "name": "Capsicum",
+        "price": 45,
+        "quantity": 130,
+        "storeName": "Local Greens"
+    },
+    {
+        "name": "Cauliflower",
+        "price": 50,
+        "quantity": 120,
+        "storeName": "Local Greens"
+    },
+    {
+        "name": "Sweet Potato",
+        "price": 70,
+        "quantity": 80,
+        "storeName": "Local Greens"
+    },
+    {
+        "name": "Lettuce",
+        "price": 55,
+        "quantity": 60,
+        "storeName": "Local Greens"
+    },
+    {
+        "name": "Strawberry",
+        "price": 200,
+        "quantity": 75,
+        "storeName": "Nature's Basket"
+    },
+    {
+        "name": "Blueberry",
+        "price": 250,
+        "quantity": 60,
+        "storeName": "Nature's Basket"
+    },
+    {
+        "name": "Kiwi",
+        "price": 100,
+        "quantity": 90,
+        "storeName": "Nature's Basket"
+    },
+    {
+        "name": "Pineapple",
+        "price": 120,
+        "quantity": 85,
+        "storeName": "Nature's Basket"
+    },
+    {
+        "name": "Papaya",
+        "price": 60,
+        "quantity": 95,
+        "storeName": "Nature's Basket"
+    },
+    {
+        "name": "Mango",
+        "price": 110,
+        "quantity": 100,
+        "storeName": "Green Valley"
+    },
+    {
+        "name": "Guava",
+        "price": 70,
+        "quantity": 120,
+        "storeName": "Green Valley"
+    },
+    {
+        "name": "Watermelon",
+        "price": 80,
+        "quantity": 90,
+        "storeName": "Green Valley"
+    },
+    {
+        "name": "Melon",
+        "price": 90,
+        "quantity": 75,
+        "storeName": "Green Valley"
+    },
+    {
+        "name": "Sapota",
+        "price": 60,
+        "quantity": 100,
+        "storeName": "Green Valley"
+    },
+    {
+        "name": "Radish",
+        "price": 30,
+        "quantity": 130,
+        "storeName": "Veggie Villa"
+    },
+    {
+        "name": "Brinjal",
+        "price": 45,
+        "quantity": 100,
+        "storeName": "Veggie Villa"
+    },
+    {
+        "name": "Pumpkin",
+        "price": 70,
+        "quantity": 80,
+        "storeName": "Veggie Villa"
+    },
+    {
+        "name": "Green Beans",
+        "price": 35,
+        "quantity": 110,
+        "storeName": "Veggie Villa"
+    },
+    {
+        "name": "Bitter Gourd",
+        "price": 25,
+        "quantity": 90,
+        "storeName": "Veggie Villa"
+    },
+    {
+        "name": "Tindora",
+        "price": 28,
+        "quantity": 100,
+        "storeName": "Farm Fresh"
+    },
+    {
+        "name": "Drumstick",
+        "price": 50,
+        "quantity": 70,
+        "storeName": "Farm Fresh"
+    },
+    {
+        "name": "Cluster Beans",
+        "price": 30,
+        "quantity": 120,
+        "storeName": "Farm Fresh"
+    },
+    {
+        "name": "Lady Finger",
+        "price": 40,
+        "quantity": 110,
+        "storeName": "Farm Fresh"
+    },
+    {
+        "name": "Snake Gourd",
+        "price": 35,
+        "quantity": 95,
+        "storeName": "Farm Fresh"
+    },
+    {
+        "name": "Peas",
+        "price": 45,
+        "quantity": 110,
+        "storeName": "Healthy Harvest"
+    },
+    {
+        "name": "Corn",
+        "price": 30,
+        "quantity": 130,
+        "storeName": "Healthy Harvest"
+    },
+    {
+        "name": "Yam",
+        "price": 50,
+        "quantity": 70,
+        "storeName": "Healthy Harvest"
+    },
+    {
+        "name": "Celery",
+        "price": 60,
+        "quantity": 80,
+        "storeName": "Healthy Harvest"
+    },
+    {
+        "name": "Spring Onion",
+        "price": 20,
+        "quantity": 100,
+        "storeName": "Healthy Harvest"
+    },
+    {
+        "name": "Raspberry",
+        "price": 220,
+        "quantity": 65,
+        "storeName": "The Fruit Stop"
+    },
+    {
+        "name": "Blackberry",
+        "price": 240,
+        "quantity": 55,
+        "storeName": "The Fruit Stop"
+    },
+    {
+        "name": "Pear",
+        "price": 90,
+        "quantity": 100,
+        "storeName": "The Fruit Stop"
+    },
+    {
+        "name": "Plum",
+        "price": 85,
+        "quantity": 90,
+        "storeName": "The Fruit Stop"
+    },
+    {
+        "name": "Pomegranate",
+        "price": 110,
+        "quantity": 85,
+        "storeName": "The Fruit Stop"
+    },
+    {
+        "name": "Turnip",
+        "price": 35,
+        "quantity": 95,
+        "storeName": "Urban Farmers"
+    },
+    {
+        "name": "Artichoke",
+        "price": 75,
+        "quantity": 60,
+        "storeName": "Urban Farmers"
+    },
+    {
+        "name": "Leek",
+        "price": 40,
+        "quantity": 80,
+        "storeName": "Urban Farmers"
+    },
+    {
+        "name": "Parsley",
+        "price": 20,
+        "quantity": 100,
+        "storeName": "Urban Farmers"
+    },
+    {
+        "name": "Mint",
+        "price": 15,
+        "quantity": 150,
+        "storeName": "Urban Farmers"
+    },
+    {
+        "name": "Mushroom",
+        "price": 90,
+        "quantity": 110,
+        "storeName": "Daily Basket"
+    },
+    {
+        "name": "Arugula",
+        "price": 50,
+        "quantity": 80,
+        "storeName": "Daily Basket"
+    },
+    {
+        "name": "Chives",
+        "price": 30,
+        "quantity": 120,
+        "storeName": "Daily Basket"
+    },
+    {
+        "name": "Basil",
+        "price": 25,
+        "quantity": 100,
+        "storeName": "Daily Basket"
+    },
+    {
+        "name": "Rosemary",
+        "price": 40,
+        "quantity": 70,
+        "storeName": "Daily Basket"
+    },
+    {
+        "name": "Onion",
+        "price": 25,
+        "quantity": 300,
+        "storeName": "Garden Greens"
+    },
+    {
+        "name": "Garlic",
+        "price": 45,
+        "quantity": 200,
+        "storeName": "Garden Greens"
+    },
+    {
+        "name": "Chili",
+        "price": 35,
+        "quantity": 180,
+        "storeName": "Garden Greens"
+    },
+    {
+        "name": "Coriander",
+        "price": 20,
+        "quantity": 150,
+        "storeName": "Garden Greens"
+    },
+    {
+        "name": "Cabbage",
+        "price": 30,
+        "quantity": 110,
+        "storeName": "Garden Greens"
+    },
+    {
+        "name": "Lychee",
+        "price": 180,
+        "quantity": 100,
+        "storeName": "Pure Pick"
+    },
+    {
+        "name": "Fig",
+        "price": 160,
+        "quantity": 80,
+        "storeName": "Pure Pick"
+    },
+    {
+        "name": "Custard Apple",
+        "price": 140,
+        "quantity": 90,
+        "storeName": "Pure Pick"
+    },
+    {
+        "name": "Jackfruit",
+        "price": 70,
+        "quantity": 100,
+        "storeName": "Pure Pick"
+    },
+    {
+        "name": "Tamarind",
+        "price": 60,
+        "quantity": 110,
+        "storeName": "Pure Pick"
+    },
+    {
+        "name": "Coconut",
+        "price": 50,
+        "quantity": 100,
+        "storeName": "Greens & More"
+    },
+    {
+        "name": "Amla",
+        "price": 40,
+        "quantity": 120,
+        "storeName": "Greens & More"
+    },
+    {
+        "name": "Sorghum",
+        "price": 35,
+        "quantity": 130,
+        "storeName": "Greens & More"
+    },
+    {
+        "name": "Horsegram",
+        "price": 45,
+        "quantity": 110,
+        "storeName": "Greens & More"
+    },
+    {
+        "name": "Fenugreek",
+        "price": 25,
+        "quantity": 140,
+        "storeName": "Greens & More"
+    },
+    {
+        "name": "Turmeric Root",
+        "price": 55,
+        "quantity": 90,
+        "storeName": "Farmers Cart"
+    },
+    {
+        "name": "Ginger",
+        "price": 70,
+        "quantity": 100,
+        "storeName": "Farmers Cart"
+    },
+    {
+        "name": "Bay Leaf",
+        "price": 30,
+        "quantity": 110,
+        "storeName": "Farmers Cart"
+    },
+    {
+        "name": "Cinnamon",
+        "price": 85,
+        "quantity": 95,
+        "storeName": "Farmers Cart"
+    },
+    {
+        "name": "Clove",
+        "price": 90,
+        "quantity": 80,
+        "storeName": "Farmers Cart"
+    },
+    {
+        "name": "Jalapeno",
+        "price": 60,
+        "quantity": 70,
+        "storeName": "FreshPoint"
+    },
+    {
+        "name": "Bell Pepper",
+        "price": 55,
+        "quantity": 80,
+        "storeName": "FreshPoint"
+    },
+    {
+        "name": "Olives",
+        "price": 120,
+        "quantity": 60,
+        "storeName": "FreshPoint"
+    },
+    {
+        "name": "Avocado",
+        "price": 180,
+        "quantity": 65,
+        "storeName": "FreshPoint"
+    },
+    {
+        "name": "Cranberry",
+        "price": 210,
+        "quantity": 55,
+        "storeName": "FreshPoint"
+    },
+    {
+        "name": "Zucchini",
+        "price": 70,
+        "quantity": 100,
+        "storeName": "Green Choice"
+    },
+    {
+        "name": "Brussels Sprouts",
+        "price": 90,
+        "quantity": 80,
+        "storeName": "Green Choice"
+    },
+    {
+        "name": "Green Peas",
+        "price": 60,
+        "quantity": 120,
+        "storeName": "Green Choice"
+    },
+    {
+        "name": "Spinach",
+        "price": 40,
+        "quantity": 130,
+        "storeName": "Green Choice"
+    },
+    {
+        "name": "Broccoli",
+        "price": 85,
+        "quantity": 90,
+        "storeName": "Green Choice"
+    },
+    {
+        "name": "Ridge Gourd",
+        "price": 45,
+        "quantity": 100,
+        "storeName": "Eco Basket"
+    },
+    {
+        "name": "Bottle Gourd",
+        "price": 50,
+        "quantity": 110,
+        "storeName": "Eco Basket"
+    },
+    {
+        "name": "Pumpkin",
+        "price": 35,
+        "quantity": 90,
+        "storeName": "Eco Basket"
+    },
+    {
+        "name": "Ash Gourd",
+        "price": 40,
+        "quantity": 95,
+        "storeName": "Eco Basket"
+    },
+    {
+        "name": "Drumstick",
+        "price": 60,
+        "quantity": 100,
+        "storeName": "Eco Basket"
+    },
+    {
+        "name": "Mango",
+        "price": 120,
+        "quantity": 100,
+        "storeName": "The Veggie Box"
+    },
+    {
+        "name": "Papaya",
+        "price": 60,
+        "quantity": 80,
+        "storeName": "The Veggie Box"
+    },
+    {
+        "name": "Pineapple",
+        "price": 90,
+        "quantity": 70,
+        "storeName": "The Veggie Box"
+    },
+    {
+        "name": "Watermelon",
+        "price": 40,
+        "quantity": 95,
+        "storeName": "The Veggie Box"
+    },
+    {
+        "name": "Muskmelon",
+        "price": 50,
+        "quantity": 90,
+        "storeName": "The Veggie Box"
+    },
+    {
+        "name": "Onion",
+        "price": 30,
+        "quantity": 200,
+        "storeName": "Harvest Hub"
+    },
+    {
+        "name": "Potato",
+        "price": 25,
+        "quantity": 220,
+        "storeName": "Harvest Hub"
+    },
+    {
+        "name": "Garlic",
+        "price": 90,
+        "quantity": 100,
+        "storeName": "Harvest Hub"
+    },
+    {
+        "name": "Chili",
+        "price": 70,
+        "quantity": 80,
+        "storeName": "Harvest Hub"
+    },
+    {
+        "name": "Coriander",
+        "price": 20,
+        "quantity": 150,
+        "storeName": "Harvest Hub"
+    }
+]
